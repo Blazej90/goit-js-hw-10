@@ -1,9 +1,20 @@
-/* body {
-  background-color: blue;
-} */
+body {
+  background-color: rgb(229, 229, 232);
+}
 
 img {
   width: 500px;
   height: 400px;
   padding-top: 0.5rem;
+}
+
+.loader {
+  font-weight: 900;
+  font-size: x-large;
+}
+
+.error {
+  font-weight: 700;
+  font-size: medium;
+  color: red;
 }
