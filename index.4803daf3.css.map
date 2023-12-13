@@ -1,1 +1,0 @@
-{"mappings":"ACIA","sources":["index.4803daf3.css","src/style.css"],"sourcesContent":["img {\n  width: 500px;\n  height: 400px;\n  padding-top: .5rem;\n}\n\n/*# sourceMappingURL=index.4803daf3.css.map */\n","/* body {\n  background-color: blue;\n} */\n\nimg {\n  width: 500px;\n  height: 400px;\n  padding-top: 0.5rem;\n}\n"],"names":[],"version":3,"file":"index.4803daf3.css.map"}
